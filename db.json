@@ -1,0 +1,37 @@
+{
+  "data": [
+{
+  "terms": [
+    {
+      "description": [
+        {
+          "heading": "Ownership",
+          "text": "React is developed and maintained by Facebook, Inc. and other contributors."
+        },
+        {
+          "heading": "License",
+          "text": "React is licensed under the MIT License, which is a permissive open-source license."
+        },
+        {
+          "heading": "Usage",
+          "text": "Users are free to use React for any purpose, including commercial purposes."
+        },
+        {
+          "heading": "Attribution",
+          "text": "Users must include a copy of the original license and copyright notice in all copies or substantial portions of the software."
+        },
+        {
+          "heading": "Limitation of Liability",
+          "text": "The software is provided \"as is,\" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement."
+        },
+        {
+          "heading": "Contributions",
+          "text": "Users who contribute to the React project grant Facebook a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute their contributions and derivative works thereof."
+        }
+      ]
+    }
+  ]
+}
+
+  ]
+}
